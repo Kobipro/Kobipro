@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Kobipro
-- 👀 I’m interested in full stack web developments
-- 🌱 I’m currently learning node.js
+- 👋 Hi, I’m @Kobby Boateng
+- 👀 I’m a Full Stack Web Developer
+- 🌱 "I code to inspire, innovate, and leave a lasting legacy."
 - 💞️ I’m looking to collaborate on challenging projects
-- 📫 How to reach me @ username.kkk//facebook
+- 📫 How to reach me on Whatsapp @0278082697
 
 <!---
 Kobipro/Kobipro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
